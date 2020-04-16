@@ -1,4 +1,8 @@
 my first test file
 my second update
 3rd update
+<<<<<<< HEAD
 my loacal update
+=======
+my live update
+>>>>>>> d88b340d4a54fb3044203651a05c65f32a2505c7
